@@ -8,7 +8,7 @@ This package provides MATLAB and Python scripts for preprocessing, feature selec
 ## MATLAB Scripts
 - **`bc_rubber.m`** – Baseline correction (rubber-band).  
 - **`spcnormalize.m`** – Normalization of single-cell spectra.  
-- **`Metabolic activity related feature selection.m`** – Feature selection by correlation with metabolic proxies (1616 & 2096 cm⁻¹).  
+- **`Metabolic activity related feature selection.m`** – Feature selection by correlation with metabolic proxies (1616 & 2094 cm⁻¹).  
 - **`spectral shift correction.m`** – Penalized Reference Matching (PRM) for segmented spectral alignment.  
 
 ## Python Scripts
