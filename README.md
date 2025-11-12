@@ -34,3 +34,10 @@ This package provides MATLAB and Python scripts for preprocessing, feature selec
 ## Citation
 If you use these scripts, please cite:  
 **"VIBRANT-G: Chemical and metabolic profiling of single-cell response to genetic perturbations"**
+
+## License
+This repository is distributed under the **Apache License, Version 2.0**.  
+You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).  
+Unless required by applicable law or agreed to in writing, this software is provided "AS IS", without warranties or conditions of any kind.
+
+
