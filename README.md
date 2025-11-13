@@ -44,9 +44,6 @@ This package provides MATLAB and Python scripts for data preprocessing, feature 
 
 ### **3. Datapreprocessing_spectal_shift_correction.m**
 
-**Purpose:**  
-Performs segmented spectral shift correction (PRM) on single-cell FTIR spectra by aligning target data to a reference batch (e.g., WT).
-
 **Input format:**  
 - `data.csv` files for both **reference** and **target** datasets  
   - **Row:** single cell (one spectrum per row)  
